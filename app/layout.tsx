@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   title: "Nishan Bajagain | Software Developer",
   description: "Passionate software developer exploring new technologies and modern web tools while completing +2 studies. Eager to build impactful projects and grow every day.",
   keywords: ["Software Developer", "Web Developer", "UX/UI Designer", "React", "Next.js", "Portfolio"],
-  generator: 'v0.app',
+  generator: 'Next.js',
   icons: {
     icon: '/favicon.svg',
     shortcut: '/favicon.svg',
