@@ -13,7 +13,7 @@ const _geistMono = Geist_Mono({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
   title: "Nishan Bajagain | Software Developer",
-  description: "Professional portfolio of Nishan Bajagain - Software Developer, Software Engineer, and UX/UI Designer",
+  description: "Passionate software developer exploring new technologies and modern web tools while completing +2 studies. Eager to build impactful projects and grow every day.",
   keywords: ["Software Developer", "Web Developer", "UX/UI Designer", "React", "Next.js", "Portfolio"],
   generator: 'v0.app',
   icons: {
